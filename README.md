@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="data_scientist_cat_background_neon.gif" width="500" style="border-radius: 12px;" />
+  <img src="data_scientist_cat_background_neon.gif" width="400" style="border-radius: 12px;" />
 </p>
 
 <h2> Hi there 👋, thank you for visiting my GitHub! </h2>
