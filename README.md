@@ -4,7 +4,7 @@
 
 <h2> Hi there 👋, thank you for visiting my GitHub! </h2>
 
-I love working with information in almost any shape or form. My favorite forms are: programming, data visualisation, finding patterns in data with statistics, ML, and of coures detangling the new AI algorithms. 
+I love working with information in almost any shape or form. My favorite forms are: programming, data visualisation, finding patterns in data with statistics, ML, and of coures detangling new AI algorithms. 
 
 I love learning but I also love teaching. Here is the [list of classes](https://v-post.github.io/about) that I have helped teaching so far.
 
